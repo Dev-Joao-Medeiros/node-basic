@@ -18,6 +18,12 @@ API REST simples para cadastro e gerenciamento de videos usando:
 - Node.js 18+
 - PostgreSQL em execucao local (ou remoto com acesso liberado)
 
+## 🚀 Como Executar o Projeto
+### Clone o repositório:
+  ```
+  git clone https://github.com/Dev-Joao-Medeiros/node-basic.git
+  ```
+
 ## Instalacao
 
 ```bash
